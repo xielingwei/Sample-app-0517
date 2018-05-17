@@ -1,6 +1,6 @@
 # README
 
-This project was start at May Seventeen, 2018.
+This project was start at May 17th, 2018.
 And the expecting end date is in the end of June, 2018.
 
 This README would normally document whatever steps are necessary to get the
